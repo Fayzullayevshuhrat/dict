@@ -1,4 +1,3 @@
-from problem2 import *
 
 from problem2 import *
 
